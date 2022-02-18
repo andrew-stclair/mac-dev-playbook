@@ -1,5 +1,4 @@
 homebrew_installed_packages:
-  - cowsay
   - git
   - terraform
   - docker
