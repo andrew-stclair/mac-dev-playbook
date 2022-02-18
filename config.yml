@@ -1,0 +1,20 @@
+homebrew_installed_packages:
+  - cowsay
+  - git
+  - terraform
+  - docker
+  - python
+  - spotify
+  - zoom
+  - awscli
+  - iterm
+  - gpg
+
+pip_packages:
+  - name: aws-adfs
+
+configure_dock: true
+dockitems_remove:
+  - Launchpad
+  - TV
+  - Podcasts
