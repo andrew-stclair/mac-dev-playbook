@@ -8,10 +8,12 @@ homebrew_installed_packages:
   - zoom
   - awscli
   - iterm
-  - gpg
 
 pip_packages:
   - name: aws-adfs
+
+mas_installed_apps:
+  - { id: 497799835, name: "Xcode" }
 
 configure_dock: true
 dockitems_remove:
