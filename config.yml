@@ -1,3 +1,6 @@
+---
+downloads: ~/.ansible-downloads/
+
 homebrew_installed_packages:
   - git
   - terraform
@@ -13,7 +16,7 @@ pip_packages:
   - name: aws-adfs
 
 mas_installed_apps:
-  - { id: 497799835, name: "Xcode" }
+  - {id: 497799835, name: "Xcode"}
 
 configure_dock: true
 dockitems_remove:
